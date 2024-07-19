@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gueburib.github.io/sitemap
+Sitemap: https://gueburib.github.io/app/sitemap
+Sitemap: https://gueburib.github.io/assets/sitemap
+Sitemap: https://gueburib.github.io/css/sitemap
+Sitemap: https://gueburib.github.io/includes/sitemap
+Sitemap: https://gueburib.github.io/item/sitemap
+Sitemap: https://gueburib.github.io/src/sitemap
